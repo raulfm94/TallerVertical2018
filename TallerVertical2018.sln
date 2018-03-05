@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerVertical2018", "Assembly-CSharp.csproj", "{CBDD3764-C84E-C9E7-F678-C61F57E48D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerVertical2018", "Assembly-CSharp-Editor.csproj", "{9334CC16-CDEA-171C-3671-7D02F9629EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDD3764-C84E-C9E7-F678-C61F57E48D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDD3764-C84E-C9E7-F678-C61F57E48D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDD3764-C84E-C9E7-F678-C61F57E48D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDD3764-C84E-C9E7-F678-C61F57E48D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9334CC16-CDEA-171C-3671-7D02F9629EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9334CC16-CDEA-171C-3671-7D02F9629EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9334CC16-CDEA-171C-3671-7D02F9629EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9334CC16-CDEA-171C-3671-7D02F9629EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
