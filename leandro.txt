@@ -1,0 +1,12 @@
+Hey soy Leandro
+
+Para usar mi git debo:
+
+Git status, para checar el estado actual del git
+“Git add *” o “git add [archivos especificos]”, para agregar archivos nuevos
+
+“Git commit -m “Nombre del commit” “ para hacer commit
+
+“Git push origin leandro” para subirlo al repo en linea
+
+Y listo
