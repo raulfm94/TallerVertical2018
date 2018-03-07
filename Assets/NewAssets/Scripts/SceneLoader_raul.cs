@@ -20,7 +20,7 @@ public class SceneLoader_raul : MonoBehaviour {
     {
         // The Application loads the Scene in the background at the same time as the current Scene.
         //This is particularly good for creating loading screens. You could also load the Scene by build //number.
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("modelado1");
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("BaseScene");
 
         //Wait until the last operation fully loads to return anything
         while (!asyncLoad.isDone)

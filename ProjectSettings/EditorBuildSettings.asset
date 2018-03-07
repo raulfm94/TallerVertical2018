@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Raul_Features.unity
+    path: Assets/NewAssets/Scenes/Raul_Features.unity
     guid: a0833db255096134281485c68e54559e
   - enabled: 1
-    path: Assets/EstaMadre.unity
+    path: Assets/NewAssets/Scenes/EstaMadre.unity
     guid: 9f36966b407fbc04e90d6b971bfaff28
+  - enabled: 1
+    path: Assets/NewAssets/Scenes/BaseScene.unity
+    guid: aacf19f399ef3a147a5a4084882edc65

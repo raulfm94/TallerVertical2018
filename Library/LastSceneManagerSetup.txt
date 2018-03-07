@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NewAssets/Scenes/Raul_Features.unity
+- path: Assets/NewAssets/Scenes/BaseScene.unity
   isLoaded: 1
   isActive: 1

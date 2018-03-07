@@ -558,6 +558,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114014160099725190, guid: f7cc55b87ffa7a346b6442e43627b4f6,
+        type: 2}
+      propertyPath: maxReticleDistance
+      value: 300
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f7cc55b87ffa7a346b6442e43627b4f6, type: 2}
   m_IsPrefabParent: 0
