@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: cf72b4e4330034fd88ebbf147d6e572b
+timeCreated: 1520458440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FLOR_2_pCylinder2
+    100002: FLOR_2_pPlane11
+    100004: FLOR_2_pPlane12
+    100006: FLOR_2_pPlane13
+    100008: FLOR_2_pPlane14
+    100010: FLOR_2_pPlane15
+    100012: FLOR_2_pPlane16
+    100014: FLOR_2_pPlane17
+    100016: FLOR_2_pPlane18
+    100018: FLOR_2_pPlane19
+    100020: FLOR_2_pPlane8
+    100022: FLOR_2_pPlane9
+    100024: //RootNode
+    100026: pPlane10_FLOR_2
+    400000: FLOR_2_pCylinder2
+    400002: FLOR_2_pPlane11
+    400004: FLOR_2_pPlane12
+    400006: FLOR_2_pPlane13
+    400008: FLOR_2_pPlane14
+    400010: FLOR_2_pPlane15
+    400012: FLOR_2_pPlane16
+    400014: FLOR_2_pPlane17
+    400016: FLOR_2_pPlane18
+    400018: FLOR_2_pPlane19
+    400020: FLOR_2_pPlane8
+    400022: FLOR_2_pPlane9
+    400024: //RootNode
+    400026: pPlane10_FLOR_2
+    2100000: FLOR_2_pCylinder2Mat
+    2100002: FLOR_2_pPlane11Mat
+    2100004: FLOR_2_pPlane12Mat
+    2100006: FLOR_2_pPlane13Mat
+    2100008: FLOR_2_pPlane14Mat
+    2100010: FLOR_2_pPlane15Mat
+    2100012: FLOR_2_pPlane16Mat
+    2100014: FLOR_2_pPlane17Mat
+    2100016: FLOR_2_pPlane18Mat
+    2100018: FLOR_2_pPlane19Mat
+    2100020: FLOR_2_pPlane8Mat
+    2100022: FLOR_2_pPlane9Mat
+    2100024: pPlane10_FLOR_2Mat
+    2300000: FLOR_2_pCylinder2
+    2300002: FLOR_2_pPlane11
+    2300004: FLOR_2_pPlane12
+    2300006: FLOR_2_pPlane13
+    2300008: FLOR_2_pPlane14
+    2300010: FLOR_2_pPlane15
+    2300012: FLOR_2_pPlane16
+    2300014: FLOR_2_pPlane17
+    2300016: FLOR_2_pPlane18
+    2300018: FLOR_2_pPlane19
+    2300020: FLOR_2_pPlane8
+    2300022: FLOR_2_pPlane9
+    2300024: pPlane10_FLOR_2
+    3300000: FLOR_2_pCylinder2
+    3300002: FLOR_2_pPlane11
+    3300004: FLOR_2_pPlane12
+    3300006: FLOR_2_pPlane13
+    3300008: FLOR_2_pPlane14
+    3300010: FLOR_2_pPlane15
+    3300012: FLOR_2_pPlane16
+    3300014: FLOR_2_pPlane17
+    3300016: FLOR_2_pPlane18
+    3300018: FLOR_2_pPlane19
+    3300020: FLOR_2_pPlane8
+    3300022: FLOR_2_pPlane9
+    3300024: pPlane10_FLOR_2
+    4300000: FLOR_2_pCylinder2
+    4300002: FLOR_2_pPlane11
+    4300004: FLOR_2_pPlane12
+    4300006: FLOR_2_pPlane13
+    4300008: FLOR_2_pPlane14
+    4300010: FLOR_2_pPlane15
+    4300012: FLOR_2_pPlane16
+    4300014: FLOR_2_pPlane17
+    4300016: FLOR_2_pPlane18
+    4300018: FLOR_2_pPlane19
+    4300020: FLOR_2_pPlane8
+    4300022: FLOR_2_pPlane9
+    4300024: pPlane10_FLOR_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
