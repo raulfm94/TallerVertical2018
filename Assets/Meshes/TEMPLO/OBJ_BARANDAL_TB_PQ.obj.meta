@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: d723a843c66714ab1ab5a3b1493d8285
+timeCreated: 1520445519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: puente_tubos_tubo_p38
+    100004: puente_tubos_tubo_p40
+    100006: puente_tubos_tubo_p41
+    100008: puente_tubos_tubo_p42
+    100010: puente_tubos_tubo_p43
+    100012: puente_tubos_tubo_p44
+    100014: puente_tubos_tubo_p45
+    100016: puente_tubos_tubo_p46
+    100018: puente_tubos_tubo_p47
+    100020: puente_tubos_tubo_p48
+    100022: puente_tubos_tubo_p49
+    100024: puente_tubos_tubo_p50
+    100026: puente_tubos_tubo_p51
+    100028: puente_tubos_tubo_p52
+    100030: puente_tubos_tubo_p53
+    100032: puente_tubos_tubo_p54
+    100034: puente_tubos_tubo_p55
+    100036: puente_tubos_tubo_p56
+    100038: puente_tubos_tubo_p57
+    100040: puente_tubos_tubo_p58
+    100042: puente_tubos_tubo_p59
+    100044: puente_tubos_tubo_p60
+    100046: puente_tubos_tubo_p61
+    100048: puente_tubos_tubo_p62
+    100050: puente_tubos_tubo_p63
+    100052: tubo_p39_puente_tubos
+    400000: //RootNode
+    400002: puente_tubos_tubo_p38
+    400004: puente_tubos_tubo_p40
+    400006: puente_tubos_tubo_p41
+    400008: puente_tubos_tubo_p42
+    400010: puente_tubos_tubo_p43
+    400012: puente_tubos_tubo_p44
+    400014: puente_tubos_tubo_p45
+    400016: puente_tubos_tubo_p46
+    400018: puente_tubos_tubo_p47
+    400020: puente_tubos_tubo_p48
+    400022: puente_tubos_tubo_p49
+    400024: puente_tubos_tubo_p50
+    400026: puente_tubos_tubo_p51
+    400028: puente_tubos_tubo_p52
+    400030: puente_tubos_tubo_p53
+    400032: puente_tubos_tubo_p54
+    400034: puente_tubos_tubo_p55
+    400036: puente_tubos_tubo_p56
+    400038: puente_tubos_tubo_p57
+    400040: puente_tubos_tubo_p58
+    400042: puente_tubos_tubo_p59
+    400044: puente_tubos_tubo_p60
+    400046: puente_tubos_tubo_p61
+    400048: puente_tubos_tubo_p62
+    400050: puente_tubos_tubo_p63
+    400052: tubo_p39_puente_tubos
+    2100000: puente_tubos_tubo_p38Mat
+    2100002: puente_tubos_tubo_p40Mat
+    2100004: puente_tubos_tubo_p41Mat
+    2100006: puente_tubos_tubo_p42Mat
+    2100008: puente_tubos_tubo_p43Mat
+    2100010: puente_tubos_tubo_p44Mat
+    2100012: puente_tubos_tubo_p45Mat
+    2100014: puente_tubos_tubo_p46Mat
+    2100016: puente_tubos_tubo_p47Mat
+    2100018: puente_tubos_tubo_p48Mat
+    2100020: puente_tubos_tubo_p49Mat
+    2100022: puente_tubos_tubo_p50Mat
+    2100024: puente_tubos_tubo_p51Mat
+    2100026: puente_tubos_tubo_p52Mat
+    2100028: puente_tubos_tubo_p53Mat
+    2100030: puente_tubos_tubo_p54Mat
+    2100032: puente_tubos_tubo_p55Mat
+    2100034: puente_tubos_tubo_p56Mat
+    2100036: puente_tubos_tubo_p57Mat
+    2100038: puente_tubos_tubo_p58Mat
+    2100040: puente_tubos_tubo_p59Mat
+    2100042: puente_tubos_tubo_p60Mat
+    2100044: puente_tubos_tubo_p61Mat
+    2100046: puente_tubos_tubo_p62Mat
+    2100048: puente_tubos_tubo_p63Mat
+    2100050: tubo_p39_puente_tubosMat
+    2300000: puente_tubos_tubo_p38
+    2300002: puente_tubos_tubo_p40
+    2300004: puente_tubos_tubo_p41
+    2300006: puente_tubos_tubo_p42
+    2300008: puente_tubos_tubo_p43
+    2300010: puente_tubos_tubo_p44
+    2300012: puente_tubos_tubo_p45
+    2300014: puente_tubos_tubo_p46
+    2300016: puente_tubos_tubo_p47
+    2300018: puente_tubos_tubo_p48
+    2300020: puente_tubos_tubo_p49
+    2300022: puente_tubos_tubo_p50
+    2300024: puente_tubos_tubo_p51
+    2300026: puente_tubos_tubo_p52
+    2300028: puente_tubos_tubo_p53
+    2300030: puente_tubos_tubo_p54
+    2300032: puente_tubos_tubo_p55
+    2300034: puente_tubos_tubo_p56
+    2300036: puente_tubos_tubo_p57
+    2300038: puente_tubos_tubo_p58
+    2300040: puente_tubos_tubo_p59
+    2300042: puente_tubos_tubo_p60
+    2300044: puente_tubos_tubo_p61
+    2300046: puente_tubos_tubo_p62
+    2300048: puente_tubos_tubo_p63
+    2300050: tubo_p39_puente_tubos
+    3300000: puente_tubos_tubo_p38
+    3300002: puente_tubos_tubo_p40
+    3300004: puente_tubos_tubo_p41
+    3300006: puente_tubos_tubo_p42
+    3300008: puente_tubos_tubo_p43
+    3300010: puente_tubos_tubo_p44
+    3300012: puente_tubos_tubo_p45
+    3300014: puente_tubos_tubo_p46
+    3300016: puente_tubos_tubo_p47
+    3300018: puente_tubos_tubo_p48
+    3300020: puente_tubos_tubo_p49
+    3300022: puente_tubos_tubo_p50
+    3300024: puente_tubos_tubo_p51
+    3300026: puente_tubos_tubo_p52
+    3300028: puente_tubos_tubo_p53
+    3300030: puente_tubos_tubo_p54
+    3300032: puente_tubos_tubo_p55
+    3300034: puente_tubos_tubo_p56
+    3300036: puente_tubos_tubo_p57
+    3300038: puente_tubos_tubo_p58
+    3300040: puente_tubos_tubo_p59
+    3300042: puente_tubos_tubo_p60
+    3300044: puente_tubos_tubo_p61
+    3300046: puente_tubos_tubo_p62
+    3300048: puente_tubos_tubo_p63
+    3300050: tubo_p39_puente_tubos
+    4300000: puente_tubos_tubo_p38
+    4300002: puente_tubos_tubo_p40
+    4300004: puente_tubos_tubo_p41
+    4300006: puente_tubos_tubo_p42
+    4300008: puente_tubos_tubo_p43
+    4300010: puente_tubos_tubo_p44
+    4300012: puente_tubos_tubo_p45
+    4300014: puente_tubos_tubo_p46
+    4300016: puente_tubos_tubo_p47
+    4300018: puente_tubos_tubo_p48
+    4300020: puente_tubos_tubo_p49
+    4300022: puente_tubos_tubo_p50
+    4300024: puente_tubos_tubo_p51
+    4300026: puente_tubos_tubo_p52
+    4300028: puente_tubos_tubo_p53
+    4300030: puente_tubos_tubo_p54
+    4300032: puente_tubos_tubo_p55
+    4300034: puente_tubos_tubo_p56
+    4300036: puente_tubos_tubo_p57
+    4300038: puente_tubos_tubo_p58
+    4300040: puente_tubos_tubo_p59
+    4300042: puente_tubos_tubo_p60
+    4300044: puente_tubos_tubo_p61
+    4300046: puente_tubos_tubo_p62
+    4300048: puente_tubos_tubo_p63
+    4300050: tubo_p39_puente_tubos
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

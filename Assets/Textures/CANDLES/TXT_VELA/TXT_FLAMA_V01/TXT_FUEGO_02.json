@@ -1,0 +1,31 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.7900000214576721,
+                    "emissive_intensity": 5.460000038146973,
+                    "height_force": 1,
+                    "horizonFade": 1.149999976158142,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1.559999942779541,
+                    "usePOM": false
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "lambert9SG": {
+            "shader": "Main shader"
+        }
+    }
+}

@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SHOWROOM/Scenes/SHOWROOM.unity
+    guid: df907d63766ec44b3a3a90bcfe519e3c

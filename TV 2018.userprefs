@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StylizedWaterShader/Code/WaterReflection.cs">
+    <Files>
+      <File FileName="Assets/StylizedWaterShader/MobileVersion/README.txt" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/Water.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ZoomActions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/Toon Water.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DepthTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/StylizedWaterShader/Shaders/StylizedWater.shader" Line="1" Column="1" />
+      <File FileName="Temp/Compiled-Mobile-Diffuse.shader" Line="8797" Column="10" />
+      <File FileName="Assets/StylizedWaterShader/Code/WaterReflection.cs" Line="82" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

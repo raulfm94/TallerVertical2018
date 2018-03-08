@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 0a35cb50212d14ec3bec64b83db74855
+timeCreated: 1520459004
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FLOR1_pCube1
+    100002: FLOR1_pCylinder1
+    100004: FLOR1_pPlane1
+    100006: FLOR1_pPlane2
+    100008: FLOR1_pPlane3
+    100010: FLOR1_pPlane4
+    100012: FLOR1_pPlane6
+    100014: FLOR1_pPlane7
+    100016: FLOR_2_pCylinder2
+    100018: FLOR_2_pPlane11
+    100020: FLOR_2_pPlane12
+    100022: FLOR_2_pPlane13
+    100024: FLOR_2_pPlane14
+    100026: FLOR_2_pPlane15
+    100028: FLOR_2_pPlane16
+    100030: FLOR_2_pPlane17
+    100032: FLOR_2_pPlane18
+    100034: FLOR_2_pPlane19
+    100036: FLOR_2_pPlane8
+    100038: FLOR_2_pPlane9
+    100040: //RootNode
+    100042: pPlane10_FLOR_2
+    100044: pPlane5_FLOR1
+    400000: FLOR1_pCube1
+    400002: FLOR1_pCylinder1
+    400004: FLOR1_pPlane1
+    400006: FLOR1_pPlane2
+    400008: FLOR1_pPlane3
+    400010: FLOR1_pPlane4
+    400012: FLOR1_pPlane6
+    400014: FLOR1_pPlane7
+    400016: FLOR_2_pCylinder2
+    400018: FLOR_2_pPlane11
+    400020: FLOR_2_pPlane12
+    400022: FLOR_2_pPlane13
+    400024: FLOR_2_pPlane14
+    400026: FLOR_2_pPlane15
+    400028: FLOR_2_pPlane16
+    400030: FLOR_2_pPlane17
+    400032: FLOR_2_pPlane18
+    400034: FLOR_2_pPlane19
+    400036: FLOR_2_pPlane8
+    400038: FLOR_2_pPlane9
+    400040: //RootNode
+    400042: pPlane10_FLOR_2
+    400044: pPlane5_FLOR1
+    2100000: FLOR1_pCube1Mat
+    2100002: FLOR1_pCylinder1Mat
+    2100004: FLOR1_pPlane1Mat
+    2100006: FLOR1_pPlane2Mat
+    2100008: FLOR1_pPlane3Mat
+    2100010: FLOR1_pPlane4Mat
+    2100012: FLOR1_pPlane6Mat
+    2100014: FLOR1_pPlane7Mat
+    2100016: FLOR_2_pCylinder2Mat
+    2100018: FLOR_2_pPlane11Mat
+    2100020: FLOR_2_pPlane12Mat
+    2100022: FLOR_2_pPlane13Mat
+    2100024: FLOR_2_pPlane14Mat
+    2100026: FLOR_2_pPlane15Mat
+    2100028: FLOR_2_pPlane16Mat
+    2100030: FLOR_2_pPlane17Mat
+    2100032: FLOR_2_pPlane18Mat
+    2100034: FLOR_2_pPlane19Mat
+    2100036: FLOR_2_pPlane8Mat
+    2100038: FLOR_2_pPlane9Mat
+    2100040: pPlane10_FLOR_2Mat
+    2100042: pPlane5_FLOR1Mat
+    2300000: FLOR1_pCube1
+    2300002: FLOR1_pCylinder1
+    2300004: FLOR1_pPlane1
+    2300006: FLOR1_pPlane2
+    2300008: FLOR1_pPlane3
+    2300010: FLOR1_pPlane4
+    2300012: FLOR1_pPlane6
+    2300014: FLOR1_pPlane7
+    2300016: FLOR_2_pCylinder2
+    2300018: FLOR_2_pPlane11
+    2300020: FLOR_2_pPlane12
+    2300022: FLOR_2_pPlane13
+    2300024: FLOR_2_pPlane14
+    2300026: FLOR_2_pPlane15
+    2300028: FLOR_2_pPlane16
+    2300030: FLOR_2_pPlane17
+    2300032: FLOR_2_pPlane18
+    2300034: FLOR_2_pPlane19
+    2300036: FLOR_2_pPlane8
+    2300038: FLOR_2_pPlane9
+    2300040: pPlane10_FLOR_2
+    2300042: pPlane5_FLOR1
+    3300000: FLOR1_pCube1
+    3300002: FLOR1_pCylinder1
+    3300004: FLOR1_pPlane1
+    3300006: FLOR1_pPlane2
+    3300008: FLOR1_pPlane3
+    3300010: FLOR1_pPlane4
+    3300012: FLOR1_pPlane6
+    3300014: FLOR1_pPlane7
+    3300016: FLOR_2_pCylinder2
+    3300018: FLOR_2_pPlane11
+    3300020: FLOR_2_pPlane12
+    3300022: FLOR_2_pPlane13
+    3300024: FLOR_2_pPlane14
+    3300026: FLOR_2_pPlane15
+    3300028: FLOR_2_pPlane16
+    3300030: FLOR_2_pPlane17
+    3300032: FLOR_2_pPlane18
+    3300034: FLOR_2_pPlane19
+    3300036: FLOR_2_pPlane8
+    3300038: FLOR_2_pPlane9
+    3300040: pPlane10_FLOR_2
+    3300042: pPlane5_FLOR1
+    4300000: FLOR1_pCube1
+    4300002: FLOR1_pCylinder1
+    4300004: FLOR1_pPlane1
+    4300006: FLOR1_pPlane2
+    4300008: FLOR1_pPlane3
+    4300010: FLOR1_pPlane4
+    4300012: FLOR1_pPlane6
+    4300014: FLOR1_pPlane7
+    4300016: FLOR_2_pCylinder2
+    4300018: FLOR_2_pPlane11
+    4300020: FLOR_2_pPlane12
+    4300022: FLOR_2_pPlane13
+    4300024: FLOR_2_pPlane14
+    4300026: FLOR_2_pPlane15
+    4300028: FLOR_2_pPlane16
+    4300030: FLOR_2_pPlane17
+    4300032: FLOR_2_pPlane18
+    4300034: FLOR_2_pPlane19
+    4300036: FLOR_2_pPlane8
+    4300038: FLOR_2_pPlane9
+    4300040: pPlane10_FLOR_2
+    4300042: pPlane5_FLOR1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
