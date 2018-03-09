@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV 2018 - MONX", "TV 2018 - MONX.csproj", "{A9AEB417-91EF-7D28-50BE-29298289B75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV 2018 - MONX.Plugins", "TV 2018 - MONX.Plugins.csproj", "{AB9C04A8-EAB8-CAD1-24A4-379605502E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV 2018 - MONX.Editor", "TV 2018 - MONX.Editor.csproj", "{3D779141-F548-7C2E-0FA5-DCF816A3D823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV 2018 - MONX.Editor.Plugins", "TV 2018 - MONX.Editor.Plugins.csproj", "{3FB602F4-0B3C-6FB3-AAFA-13C9EB18463C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AEB417-91EF-7D28-50BE-29298289B75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AEB417-91EF-7D28-50BE-29298289B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AEB417-91EF-7D28-50BE-29298289B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AEB417-91EF-7D28-50BE-29298289B75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9C04A8-EAB8-CAD1-24A4-379605502E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9C04A8-EAB8-CAD1-24A4-379605502E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9C04A8-EAB8-CAD1-24A4-379605502E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9C04A8-EAB8-CAD1-24A4-379605502E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D779141-F548-7C2E-0FA5-DCF816A3D823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D779141-F548-7C2E-0FA5-DCF816A3D823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D779141-F548-7C2E-0FA5-DCF816A3D823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D779141-F548-7C2E-0FA5-DCF816A3D823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB602F4-0B3C-6FB3-AAFA-13C9EB18463C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB602F4-0B3C-6FB3-AAFA-13C9EB18463C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB602F4-0B3C-6FB3-AAFA-13C9EB18463C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB602F4-0B3C-6FB3-AAFA-13C9EB18463C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

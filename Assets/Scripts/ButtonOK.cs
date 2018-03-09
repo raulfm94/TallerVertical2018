@@ -29,7 +29,7 @@ public class ButtonOK : MonoBehaviour {
 		while(true){
 			yield return new WaitForSeconds(3);
 			Destroy(this.gameObject);
-			SceneManager.LoadScene("Scene1");
+			//SceneManager.LoadScene("Scene1");
 
 			
 		}
